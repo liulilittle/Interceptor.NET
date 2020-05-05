@@ -1,4 +1,4 @@
-namespace EChat.Hooking
+﻿namespace Interceptor.Hooking
 {
     using System;
     using System.Reflection;
