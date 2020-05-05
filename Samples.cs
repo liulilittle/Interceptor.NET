@@ -1,7 +1,7 @@
-﻿namespace EChat
+namespace Interceptor
 {
     using System;
-    using EChat.Hooking;
+    using Interceptor.Hooking;
 
     class Samples
     {
